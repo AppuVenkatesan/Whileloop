@@ -13,7 +13,7 @@ public class whileloop {
 			
 			i++;
 			
-			break;
+		
 		
 		}
 
